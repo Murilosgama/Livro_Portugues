@@ -10955,7 +10955,7 @@ p {
 }
 
 .footer {
-  background-color: rgba(47, 23, 15, 0.9);
+  background-color: rgba(0, 50, 75, 0.8);
 }
 
 .intro {
@@ -11043,9 +11043,32 @@ p {
   object-fit: cover; /* Pode ser 'cover', 'contain', 'fill', 'none', ou 'scale-down' */
 }
 
-
-
 .card {
   text-align: center;
 }
 
+.meu-li{
+  padding-bottom: 1,0em;
+  padding-top: 1,0em;
+}
+
+.autor{
+  width: 105%;
+  padding-top: 9em;
+  padding-left: 40em;
+}
+
+.about-heading-content1{
+    margin-top: -3rem;
+    position: absolute;
+    z-index: 5;
+    width: 70%;
+    padding-left: 10em;
+    padding-top: 4em;
+}
+
+.section-heading-lower1{
+display: block;
+  font-size: 1,6rem;
+  font-weight: 100;
+}
