@@ -11077,3 +11077,35 @@ display: block;
   align-items:right
 }
 
+.image-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px; 
+}
+
+.image-container img {
+  width: 48%; 
+  height: auto;
+}
+
+.textodedicado {
+  padding-top: 2%;
+}
+
+.imgintegrantes {
+  max-width: 100%;
+  height: auto;
+}
+
+.row.justify-content-center {
+  margin-top: 20px; 
+}
+
+.integrantes-section {
+  margin-top: 20px; 
+}
+
+.integrantes-card {
+  height: 350px; 
+}
