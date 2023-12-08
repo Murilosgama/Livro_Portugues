@@ -11036,3 +11036,16 @@ p {
   background-color: #055160;
   opacity: 0.5;
 }
+
+.imgintegrantes {
+  width: 100%;
+  height: 200px; /* Defina a altura desejada */
+  object-fit: cover; /* Pode ser 'cover', 'contain', 'fill', 'none', ou 'scale-down' */
+}
+
+
+
+.card {
+  text-align: center;
+}
+
